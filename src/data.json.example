@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "Search Engines", "icon": "magnifying-glass", "urls": [
+      {"title": "Google", "url": "https://google.com"},
+      {"title": "Bing", "url": "https://bing.com"}
+    ]
+    },
+    {
+      "title": "Economics", "icon": "coins", "urls": [
+      {"title": "Forex Factory", "url": "https://forexfactory.com"},
+      {"title": "Bloomberg", "url": "https://bloomberg.com"}
+    ]
+    },
+    {
+      "title": "Git Repositories", "icon": "code-fork", "urls": [
+      {"title": "Handy Home Page", "url": "https://github.com/mgolshan/handy-homepage"},
+      {"title": "JavaScript Algorithms", "url": "https://github.com/TheAlgorithms/JavaScript"}
+    ]
+    },
+    {
+      "title": "Fun", "icon": "dice", "urls": [
+      {"title": "Map Crunch", "url": "https://www.mapcrunch.com/"},
+      {"title": "The Useless Web", "url": "https://theuselessweb.com/"}
+    ]
+    }
+  ]
+}
