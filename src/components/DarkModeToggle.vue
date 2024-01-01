@@ -21,6 +21,12 @@ export default {
       isDarkMode: this.isDark,
     };
   },
+  mounted() {
+    if(this.isDarkMode) {
+      this.isDarkMode = false;
+      this.toggleDarkMode();
+    }
+  },
   methods: {
     toggleDarkMode() {
       this.isDarkMode = !this.isDarkMode;

@@ -27,8 +27,8 @@ export default {
     return {
       jsonData: jsonData,
       searchQuery: '',
-      isDark: false,
-      cols: 3
+      isDark: process.env.VUE_APP_IS_DARK === 'true',
+      cols: parseInt(process.env.VUE_APP_COLS || 3)
     };
   },
   methods: {

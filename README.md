@@ -29,6 +29,7 @@ npm run lint
 * Run `npm run build`.
 * Open the file `dist/index.html` in the browser.
 
+### Configurations:
+After installation, modify the `.env` file for configurations
 
-
-***Search available icons:*** https://fontawesome.com/
+***Search available icons:*** https://fontawesome.com/icons

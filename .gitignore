@@ -5,6 +5,7 @@ src/data.json
 
 # local env files
 .env.local
+.env.development
 .env.*.local
 .env
 

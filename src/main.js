@@ -6,7 +6,6 @@ import {FontAwesomeIcon} from '@fortawesome/vue-fontawesome'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
-
 library.add(fas)
 
 const app = createApp(App)

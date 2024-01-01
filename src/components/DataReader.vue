@@ -95,7 +95,6 @@ export default {
         }
       }
       const chunkDiff = arr.length - counter;
-
       if (chunkDiff > 0) {
         for (let i = 0; i < chunkDiff; i++) {
           chunkData[i].push(arr[counter++]);
